@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "google-cloud-tutorial"
+version = "0.1.0"
+description = "Tutorial related to google cloud and sample codes."
+authors = ["sandy1618 <sandeepnayak1.618@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
